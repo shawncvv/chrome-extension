@@ -1,0 +1,19 @@
+{
+  "name": "@jerome/cssdao-x86swiefg",
+  "version": "1.0.0",
+  "description": "Hello,everyone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackMahuten/Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackMahuten/Website/issues"
+  },
+  "homepage": "https://github.com/JackMahuten/Website#readme"
+}
