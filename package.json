@@ -1,19 +1,27 @@
 {
-  "name": "@jerome/cssdao-x86swiefg",
-  "version": "1.0.0",
-  "description": "Hello,everyone",
+  "name": "@shawn88/cssdao-utils",
+  "version": "0.0.7",
+  "author": "shawncvv",
+  "description": "common toolkit",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shawncvv/chrome-extension"
+  },
+  "license": "ISC",
+  "bugs": "https://github.com/shawncvv/chrome-extension/issues",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JackMahuten/Website.git"
+  "dependencies": {
+    "moment": "2.29.4",
+    "bignumber.js": "^9.0.1",
+    "qs": "6.10.1",
+    "@shawncvv/dom-extension": "^0.0.2",
+    "@shawncvv/copy-text": "^0.0.2"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JackMahuten/Website/issues"
-  },
-  "homepage": "https://github.com/JackMahuten/Website#readme"
+  "devDependencies": {
+    "@types/qs": "^6.9.6"
+  }
 }
