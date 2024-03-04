@@ -19,7 +19,27 @@
     "bignumber.js": "^9.0.1",
     "qs": "6.10.1",
     "@shawncvv/dom-extension": "^0.0.2",
-    "@shawncvv/copy-text": "^0.0.2"
+    "@shawncvv/copy-text": "^0.0.2",
+    "@shawncvv/format": "0.0.1",
+    "@shawncvv/timezone": "0.0.1",
+    "@shawncvv/downloadbyform": "0.0.1",
+    "@shawncvv/query-string": "0.0.1",
+    "@shawncvv/cooling-timer": "0.0.1",
+    "@shawncvv/eventbus": "0.0.1",
+    "@shawncvv/sleep": "0.0.1",
+    "@shawncvv/transform": "0.0.1",
+    "@shawncvv/getdate": "0.0.1",
+    "@shawncvv/bom-extension": "0.0.1",
+    "@shawncvv/data-store": "0.0.1",
+    "@shawncvv/use-valuelds": "0.0.1",
+    "@shawncvv/useloading": "0.0.1",
+    "@shawncvv/use-model-data": "0.0.1",
+    "@shawncvv/persist-hooks": "0.0.1",
+    "@shawncvv/withref": "0.0.1",
+    "@shawncvv/watch-size": "0.0.1",
+    "@shawncvv/babel-block": "0.0.1",
+    "@shisongyan/react-org-chart": "1.1.0",
+    "ts-version": "2.0.0"
   },
   "devDependencies": {
     "@types/qs": "^6.9.6"
